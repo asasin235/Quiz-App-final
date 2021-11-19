@@ -1,0 +1,19 @@
+{
+  "name": "quiziify",
+  "version": "1.0.0",
+  "description": "Quiz Making and mangment app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asasin235/Quiz-App-final.git"
+  },
+  "author": "aatif Rashid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asasin235/Quiz-App-final/issues"
+  },
+  "homepage": "https://github.com/asasin235/Quiz-App-final#readme"
+}
